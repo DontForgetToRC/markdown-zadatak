@@ -41,4 +41,4 @@ Todo lista za nadopunu programa:
 [X] Ispisati sumu znamenki broja
 [ ] Pojesti maneštru
 
-<a href="https://github.com/DontForgetToRC/markdown-zadatak">Povratak na vrh</a>
+<a href="https://github.com/DontForgetToRC/markdown-zadatak#">Povratak na vrh</a>

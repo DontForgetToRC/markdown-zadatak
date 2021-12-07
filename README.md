@@ -35,10 +35,10 @@ int main() {
 
 ### TODO
 Todo lista za nadopunu programa:
-[X] Ispisati poruku za unos broja
-[X] Omogućiti unos broja
-[X] Provjeriti je li broj troznamenkast
-[X] Ispisati sumu znamenki broja
-[ ] Pojesti maneštru
+- [X] Ispisati poruku za unos broja
+- [X] Omogućiti unos broja
+- [X] Provjeriti je li broj troznamenkast
+- [X] Ispisati sumu znamenki broja
+- [ ] Pojesti maneštru
 
 <a href="https://github.com/DontForgetToRC/markdown-zadatak#">Povratak na vrh</a>
